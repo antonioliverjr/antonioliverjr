@@ -2,19 +2,19 @@
 ### 😎 Meu nome é Antonio Oliveira!
 
 
-- 👨‍💻 Trabalho atualmente como **Database Analyst - Analista de Banco de Dados**
-- 👨‍🏫 Estudando **Python** e pretendo seguir o caminho para **Engenheiro de Dados** e após **Arquiteto de Dados** ...
+- 👨‍💻 Trabalho atualmente como **Database Analyst - Analista de Sistemas Pleno**
+- 👨‍🏫 Estudando **C#** e **Python** pretendo seguir o caminho **Backend** para **Engenheiro de Dados**...
 - 🙋‍♂️ No momento não estou colaborando em nenhum projeto, mas gostaria muito de contribuir em breve ...
-- 💬 Interesses **Backend Python, Engenharia de Dados, Construção e Consumo de API e Big Data** ...
+- 💬 Interesses **Backend C#, Backend Python, Engenharia de Dados, Construção e Consumo de API e Big Data** ...
 - 📫 Entre em contato: antoniobatistajr@gmail.com...
 
 
 > Voltei a trabalhar com Informática em 2015, em assistência técnica de notebook, em 2018 passei a atuar como técnico em informática na parte de infraestrutura,
 acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vontade de estudar programação. 👌
 
-> Em 2021 iniciei os estudos com Python para analise de dados e com pouco tempo, por algumas situações pessoais migrei estudos para PHP, após conseguir migrar para atividades com desenvolvimento em PHP e logo em seguida entrar em time **DEV** (Atual Trabalho) e passar a atuar com **Database** ampliei os horizontes e busqieo conhecimentos para definir o caminho a seguir. 🙌
+> Em 2021 iniciei os estudos com Python para analise de dados e com pouco tempo, por algumas situações pessoais migrei estudos para PHP, após conseguir migrar para atividades com desenvolvimento em PHP e logo em seguida entrar em time **DEV** (Atual Trabalho) e passar a atuar com **Database** ampliei os horizontes e busquei o conhecimentos para definir o caminho a seguir. 🙌
 
-> Daí além de trabalhar diáriamente com T-SQL no Microsoft Sql Server, estudei C# para conhecer e acompanhar os projetos no novo trabalho, aprendi bastante sobre Orientação a Objetos e construção de API. Resolvi logo após e definitivamente voltar os estudos em Python, para criação de API, Macros, Bot, Backend, manipulação de Dados mais amplamente do que somente no processo de Ciência de Dados, aumejando me tornar Engenheiro de Dados e quem sabe Arquiteto de Dados futuramente. 🤞
+> Daí além de trabalhar diáriamente com T-SQL no Microsoft Sql Server, estudo C# para conhecer e acompanhar os projetos no novo trabalho, aprendi bastante sobre Orientação a Objetos e construção de API. Resolvi logo após e definitivamente voltar os estudos em Python, para criação de API, Macros, Bot, Backend, manipulação de Dados mais amplamente do que somente no processo de Ciência de Dados, aumejando me tornar Engenheiro de Dados e quem sabe Arquiteto de Dados futuramente. 🤞
 
 
 
