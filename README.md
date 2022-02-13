@@ -2,19 +2,19 @@
 ### 😎 Meu nome é Antonio Oliveira!
 
 
-- 👨‍💻 Trabalho atualmente como **Analista de Sistemas Pleno**
+- 👨‍💻 Disponível para o mercado, atuo como **Analista de Dados ou Analista de Sistemas .NET**
 - 👨‍🏫 Estudando **C#** e **Python** pretendo seguir o caminho **Backend** para **Engenheiro de Dados**...
 - 🙋‍♂️ No momento não estou colaborando em nenhum projeto, mas gostaria muito de contribuir em breve ...
-- 💬 Interesses **Backend C#, Backend Python, Engenharia de Dados, Construção e Consumo de API e Big Data** ...
+- 💬 Interesses **Backend C#, Python Dados e ETL, Engenharia de Dados, Construção e Consumo de API e Big Data** ...
 - 📫 Entre em contato: antoniobatistajr@gmail.com...
 
 
 > Voltei a trabalhar com Informática em 2015, em assistência técnica de notebook, em 2018 passei a atuar como técnico em informática na parte de infraestrutura,
 acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vontade de estudar programação. 👌
 
-> Em 2021 iniciei os estudos com Python para analise de dados e com pouco tempo, por algumas situações pessoais migrei estudos para PHP, após conseguir migrar para atividades com desenvolvimento em PHP e logo em seguida entrar em time **DEV** (Atual Trabalho) e passar a atuar com **Backend** ampliei os horizontes e busquei o conhecimentos para definir o caminho a seguir. 🙌
+> Em 2021 iniciei os estudos com Python para analise de dados e com pouco tempo, por algumas situações pessoais migrei estudos para PHP, após conseguir migrar para atividades com desenvolvimento em PHP e logo em seguida entrar em time **DEV** (Atualmente) e passar a atuar com **Backend** ampliei os horizontes e busquei o conhecimentos para definir o caminho a seguir. 🙌
 
-> Daí além de trabalhar diáriamente com T-SQL no Microsoft Sql Server, estudo e atuo em C# acompanhando os projetos no novo trabalho, aprendi bastante sobre Orientação a Objetos e construção de API. Resolvi logo após voltar os estudos em Python para Cloud e ETL, mantendo C# na criação de API, Macros, Bot, Backend e Python na manipulação de Dados On-Cloud, aumejando me tornar Engenheiro de Dados e quem sabe Arquiteto de Dados futuramente. 🤞
+> Daí além de trabalhar diáriamente com T-SQL no Microsoft Sql Server, estudo e atuo em C# acompanhando os projetos no último trabalho, aprendi bastante sobre Orientação a Objetos e construção de API (C#). Resolvi logo após voltar os estudos em Python para Cloud e ETL, mantendo C# na criação de API, Macros, Bot, Backend e Python na manipulação de Dados On-Cloud, aumejando me tornar Engenheiro de Dados e quem sabe Arquiteto de Dados futuramente. 🤞
 
 
 
