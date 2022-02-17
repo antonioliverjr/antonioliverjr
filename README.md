@@ -47,6 +47,7 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
 <div style="display: inline_block" align="center"><br>
   <h2> Tecnologias à estudar </h2>
   <img align="center" alt="oliver-spark" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
+  <img align="center" alt="oliver-azure" height="60" width="70" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
   <img align="center" alt="oliver-azure" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="oliver-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="oliver-google" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
