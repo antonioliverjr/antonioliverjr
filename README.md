@@ -31,6 +31,7 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
   <img align="center" alt="oliver-dotnet" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="oliver-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="oliver-django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="oliver-djangoapi" height="60" width="70" src="https://www.django-rest-framework.org/img/logo.png">
   <img align="center" alt="oliver-vscode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="oliver-vstudio" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
