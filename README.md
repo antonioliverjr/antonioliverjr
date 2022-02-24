@@ -26,13 +26,13 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
 <div style="display: inline_block" align="center"><br>
   <h2> Tecnologias Backend e Dados (ETL / API / BI) </h2>
   <img align="center" alt="oliver-Sqlserver" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="oliver-mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="oliver-mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>
   <img align="center" alt="oliver-vscode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="oliver-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="oliver-django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="oliver-pandas" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="oliver-matplotlib" height="60" width="70" src="https://matplotlib.org/_static/images/logo2.svg">
-  <img align="center" alt="oliver-seaborn" height="60" width="70" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+  <img align="center" alt="oliver-seaborn" height="60" width="70" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"><br>
   <img align="center" alt="oliver-vstudio" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="oliver-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="oliver-dotnet" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -51,10 +51,10 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
   <h2> Tecnologias à estudar </h2>
   <img align="center" alt="oliver-spark" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
   <img align="center" alt="oliver-hadoop" height="60" width="70" src="https://hadoop.apache.org/elephant.png">
-  <img align="center" alt="oliver-fastapi" height="60" width="70" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
+  <img align="center" alt="oliver-fastapi" height="60" width="70" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"><br>
   <img align="center" alt="oliver-azure" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="oliver-AWS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="oliver-google" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="oliver-google" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"><br>
   <img align="center" alt="oliver-mongodb" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="oliver-docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="oliver-jenkins" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
