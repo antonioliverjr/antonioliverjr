@@ -25,13 +25,13 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
 </div>
 <div style="display: inline_block" align="center"><br>
   <h2> Tecnologias Backend e Dados (ETL / API / BI) </h2>
-  <img align="center" alt="oliver-Sqlserver" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="oliver-Sqlserver" height="60" width="70" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png">
   <img align="center" alt="oliver-mysql" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="oliver-postgres" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><br>
   <img align="center" alt="oliver-vscode" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="oliver-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="oliver-django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="oliver-flask" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="oliver-flask" height="60" width="70" src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png.png">
   <img align="center" alt="oliver-pandas" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="oliver-matplotlib" height="60" width="70" src="https://matplotlib.org/_static/images/logo2.svg">
   <img align="center" alt="oliver-seaborn" height="60" width="70" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"><br>
