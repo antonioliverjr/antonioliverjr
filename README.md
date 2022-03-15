@@ -42,7 +42,7 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
   
 <div style="display: inline_block" align="center"><br>
   <h2> Frontend Básico </h2>
-  <img align="center" alt="oliver-html5" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png">
+  <img align="center" alt="oliver-powerbi" height="60" width="70" src="https://www.trustcoding.com.br/img/service/1.png">
   <img align="center" alt="oliver-html5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="oliver-Bootstrap" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="oliver-jquery" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
