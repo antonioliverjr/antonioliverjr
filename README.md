@@ -27,17 +27,17 @@ acompanhando além da estrutura, sistemas como **sysadmin** e daí surgiu a vont
   <h2> Tecnologias Backend e Dados (ETL / API / BI) </h2>
   <img align="center" alt="oliver-Sqlserver" height="60" width="70" src="https://logodownload.org/wp-content/uploads/2016/10/Microsoft-SQL-Server-Logo-1.png">
   <img align="center" alt="oliver-datatools" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="SSIS">
-  <img align="center" alt="oliver-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><br>
   <img align="center" alt="oliver-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="oliver-Csharp" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="oliver-spark" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
-  <img align="center" alt="oliver-pandas" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"><br>
   <img align="center" alt="oliver-powerbi" height="60" width="70" src="https://www.trustcoding.com.br/img/service/1.png">
+  <img align="center" alt="oliver-pandas" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="oliver-matplotlib" height="60" width="70" src="https://matplotlib.org/_static/images/logo2.svg"><br>
 </div>
   
 <div style="display: inline_block" align="center"><br>
   <h2> Outros </h2>
-  <img align="center" alt="oliver-django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="oliver-django" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="oliver-fastapi" height="60" width="70" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png">
   <img align="center" alt="oliver-flask" height="60" width="70" src="https://stickker.net/wp-content/uploads/2016/01/flask.svg_.png.png">
   <img align="center" alt="oliver-git" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
